@@ -21,3 +21,7 @@
 nav a {
 	text-decoration: none;
 }
+
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
